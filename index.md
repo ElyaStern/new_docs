@@ -143,6 +143,6 @@ payload: {
 };
 ```
 
-После получения результата авторизации обменяйте полученный Silent token (параметр token) на [Access token](https://dev.vk.com/vkid/tokens/access-token).
+После получения результата авторизации обменяйте полученный Silent token из параметра token на [Access token](https://dev.vk.com/vkid/tokens/access-token).
 
 В результате успешной настройки пользователь сможет авторизоваться через [VK ID](https://dev.vk.com/vkid/about) в вашем web-приложении.
